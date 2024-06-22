@@ -1,4 +1,4 @@
-# Latent space representation by using UMAP-
+# Latent space representation learning by using UMAP-
 The aim of this project is to provide visualizations of the 8-dimensional latent space projected into a 2-dimensional space using paired linked variational autoencoders. The dataset contains 21 different classes of shapes, each with a corresponding spectrum response. 
 
 **Requirements**
@@ -12,4 +12,5 @@ The aim of this project is to provide visualizations of the 8-dimensional latent
 $ git clone https://github.com/22510064/UMAP-Representation-
 $ pip install -r requirements.txt
 
-
+#Results 
+![UMAP_results_plot](https://github.com/22510064/UMAP-Representation-/assets/146482746/f488afd3-4b78-4c5c-af7f-b9cea7888947)
