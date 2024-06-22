@@ -13,4 +13,5 @@ $ git clone https://github.com/22510064/UMAP-Representation-
 $ pip install -r requirements.txt
 
 #Results 
-![UMAP_results_plot](https://github.com/22510064/UMAP-Representation-/assets/146482746/f488afd3-4b78-4c5c-af7f-b9cea7888947)
+![UMAP_results_plot](https://github.com/22510064/UMAP-Representation-/assets/146482746/bbaf1ebb-bb7c-4fb5-9010-b38b7c460932)
+
