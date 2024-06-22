@@ -12,6 +12,6 @@ The aim of this project is to provide visualizations of the 8-dimensional latent
 $ git clone https://github.com/22510064/UMAP-Representation-
 $ pip install -r requirements.txt
 
-#Results 
-![UMAP_results_plot](https://github.com/22510064/UMAP-Representation-/assets/146482746/bbaf1ebb-bb7c-4fb5-9010-b38b7c460932)
+# Results 
+
 
