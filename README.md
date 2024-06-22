@@ -14,5 +14,6 @@ $ pip install -r requirements.txt
 
 **Results**
  
+![UMAP_results_plot](https://github.com/22510064/UMAP-Representation-/assets/146482746/0e43b376-341b-4063-b7e8-7e99d82ed3da)
 
 
