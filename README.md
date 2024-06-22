@@ -1,4 +1,4 @@
-# UMAP-Representation-
+# Latent space representation by using UMAP-
 The aim of this project is to provide visualizations of the 8-dimensional latent space projected into a 2-dimensional space using paired linked variational autoencoders. The dataset contains 21 different classes of shapes, each with a corresponding spectrum response. 
 
 **Requirements**
