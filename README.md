@@ -7,13 +7,22 @@ The aim of this project is to provide visualizations of the 8-dimensional latent
     - Cuda = 11.0
     - Cudnn = 8.0
 
-**Installation**
+# Results 
+This figure shows the visualizations of 8 dimensional space for shape and spectrum projected into 2 dimensional space. 
+![UMAP Results Plot](https://raw.githubusercontent.com/22510064/UMAP-Representation-/main/UMAP_results_plot.png)
+
+
+Basically, we have 21 classes of shapes included in the dataset. We can toggle the visibility of each class to view them individually.
+This figure shows the shape and spectrum for class label 4.
+
+![UMAP Shape](https://github.com/22510064/UMAP-Representation-/blob/main/UMAP_shape.png)
+
+
+![UMAP Spectrum](https://github.com/22510064/UMAP-Representation-/blob/main/UMAP_spectrum.png)
+
+
+
+# Installation
 ```bash
 $ git clone https://github.com/22510064/UMAP-Representation-
 $ pip install -r requirements.txt
-
-**Results**
- 
-![UMAP_results_plot](https://github.com/22510064/UMAP-Representation-/assets/146482746/0e43b376-341b-4063-b7e8-7e99d82ed3da)
-
-
