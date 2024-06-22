@@ -8,7 +8,7 @@ The aim of this project is to provide visualizations of the 8-dimensional latent
     - Cudnn = 8.0
 
 # Results 
-This figure shows the visualizations of 8 dimensional space for shape and spectrum projected into 2 dimensional space. 
+This figure shows the visualizations of 8 dimensional latent space for shape and spectrum projected into 2 dimensional latent space. 
 ![UMAP Results Plot](https://raw.githubusercontent.com/22510064/UMAP-Representation-/main/UMAP_results_plot.png)
 
 
